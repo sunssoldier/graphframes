@@ -1,5 +1,9 @@
 ## Welcome
 --
+Inspired by:
+
+(https://github.com/databricks/Spark-The-Definitive-Guide/blob/master/code/Advanced_Analytics_and_Machine_Learning-Chapter_30_Graph_Analysis.py)
+
 This repo uses python 3.9, spark 3.2 and graphframes 0.8.2 
 (https://spark-packages.org/package/graphframes/graphframes)
 
